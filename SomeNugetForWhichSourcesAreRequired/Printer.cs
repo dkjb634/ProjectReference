@@ -4,6 +4,6 @@ public class Printer
 {
     public static void Print(object o)
     {
-        Console.WriteLine(o.ToString());
+        Console.WriteLine(o.ToString()); // test
     }
 }
